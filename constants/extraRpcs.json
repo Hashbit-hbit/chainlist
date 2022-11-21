@@ -1558,5 +1558,15 @@
         "rpcs": [
             "https://node.0xtchain.com"
         ]
+     },
+    "11119": {
+        "rpcs": [
+            "https://mainnet-rpc.hashbit.org"
+        ]
+    },
+    "11120": {
+        "rpcs": [
+            "https://testnet-rpc.hashbit.org"
+        ]
     }
 }
